@@ -32,4 +32,5 @@ terraform destroy
 - Terraform is platform agnostic and some of these configurations can be carried over to other cloud providers if desired.
 
 ## Cost Estimates
-- TBD
+- 1 EKS cluster with Standard Support, and 2 nodes with 2 vCPU each would cost approximately 131.40 USD per month.
+- Use https://calculator.aws/#/ to estimate costs for different vCPU hours and additional cloud resources.
